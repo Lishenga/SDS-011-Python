@@ -10,8 +10,8 @@ RPINAME="RPINAME"
 #Desired operation mode
 
 #folder locations 
-FOLDER = '/home/pi/SDS-011-Python/AQ/Data/' #for raw data
-FOLDERCODE='/home/pi/SDS-011-Python/AQ/Scripts/' #For the scpirs locaton 
+FOLDER = '/home/pi/Desktop/SDS-011-Python/AQ/Data/' #for raw data
+FOLDERCODE='/home/pi/Desktop/SDS-011-Python/AQ/Scripts/' #For the scpirs locaton 
 #Operation location, if using with GPS use area name, add inital lat and lon
 #Makse sure there are no spaces in Location name or / or ,  for this goes into ther file name
 LOC=['loncan','lat','lon'] #Add test name into this too, say aersol and calbration ...

@@ -1,0 +1,5 @@
+Time Period,start:,2020-11-20 18:07:38,end:,
+Sensors:,SDS011_1
+Location:,loncan,Lat-Lon,lat,lon
+Interval time,10
+time,sds-pm2.5,sds-pm10,sds-TSP
